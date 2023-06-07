@@ -50,7 +50,7 @@ except URLError as e:
 
 #streamlit.stop()
 
-import snowflake.connector
+#import snowflake.connector
 
 
 
